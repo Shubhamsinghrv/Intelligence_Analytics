@@ -1,0 +1,8 @@
+2025-01-16 06:46:43,890 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-01-16 06:46:43,901 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'get_value']
+2025-01-16 06:46:43,903 DEBUG    root            Running [gcloud.config.get-value] with arguments: [SECTION/PROPERTY: "project"]
+2025-01-16 06:46:43,906 DEBUG    root            Chosen display Format:value(.)
+2025-01-16 06:46:43,907 INFO     root            Display format: "value(.)"
+2025-01-16 06:46:43,907 INFO     ___FILE_ONLY___ big-data-engin
+
+2025-01-16 06:46:43,908 DEBUG    root            SDK update checks are disabled.

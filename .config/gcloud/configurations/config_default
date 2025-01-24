@@ -1,0 +1,6 @@
+[compute]
+region = asia-south1
+
+[dataproc]
+region = asia-south1
+

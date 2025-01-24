@@ -1,0 +1,10 @@
+2025-01-15 10:11:01,805 DEBUG    root            Loaded Command Group: ['gcloud', 'projects']
+2025-01-15 10:11:01,811 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'describe']
+2025-01-15 10:11:01,814 DEBUG    root            Running [gcloud.projects.describe] with arguments: [--format: "value(projectNumber)", PROJECT_ID_OR_NUMBER: "big-data-engin"]
+2025-01-15 10:11:01,854 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2025-01-15 10:11:03,310 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects/big-data-engin?alt=json HTTP/1.1" 200 None
+2025-01-15 10:11:03,313 DEBUG    root            Chosen display Format:default value(projectNumber)
+2025-01-15 10:11:03,314 INFO     root            Display format: "default value(projectNumber)"
+2025-01-15 10:11:03,328 INFO     ___FILE_ONLY___ 474362067828
+
+2025-01-15 10:11:03,329 DEBUG    root            SDK update checks are disabled.
